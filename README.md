@@ -1,2 +1,2 @@
 # sayhello
-test for team
+test for teams
